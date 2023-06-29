@@ -8,7 +8,7 @@
 > _Github:_ Viktoryia777
 
 ## ***Summary***
-> I'm 25  years old and currently i work as a production documentation assistant. This is a cool job as i need to communicate a lot as well as to create new documentation. But to learn something new sounds much more inteesting. I wouldn't describe myself as a very fast learner as i prefer to learn everything thoroughly.
+> I'm 25  years old and currently i work as a production documentation assistant. This is a cool job as i need to communicate a lot as well as to create new documentation. But to learn something new sounds much more interesting. I wouldn't describe myself as a very fast learner as i prefer to learn everything thoroughly.
 
 ##  ***Skills***
 > + Git
@@ -27,14 +27,14 @@ describe("Multiply", () => {
 ```
 ## ***Education***
 >  + ### Minsk State Lingustic Univesity
->    + Modern foreign languages (translatioj and interpretation)
+>    + Modern foreign languages (translation and interpretation)
 >   
 >  + ### Eotvos Lorand University
 >    + Preparatory course in Hungarian
 
 ## ***Experience***
 > + Production documentation assistant
-> + Translator / assstant to the deputy head of production
+> + Translator / assistant to the deputy head of production
 > + Consecutive interpeter with the Hungarian language
 
 ## ***Languages***
