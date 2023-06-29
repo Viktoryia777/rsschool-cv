@@ -41,6 +41,7 @@ describe("Multiply", () => {
 > + Russian (mother tongue)
 > + English (advanced)
 > + Hungarian (advanced)
+> + Chinese (beginner)
 
 
 
