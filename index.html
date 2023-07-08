@@ -8,12 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header></header>
     <div class="header">
     <h1>VIKTORYIA SUSHKO</h1>
     </div>
     <section class="contacts">
         <img class="img" src="/Users/viachaslauanop/Documents/photo.jpg" alt="applicantsPicture">
-        <h2>Contact info:</h2>
+        <h2 class="ci">Contact info:</h2>
         <ul>
             <li>Address: 2985 Lehman Ave 365, West Valley, UT, USA</li>
             <li>Mobile phone: +1 (385) 504-0881</li>
@@ -21,8 +22,9 @@
             <li>Github: Viktoryia777</li>
         </ul>
     </section>
+    </header>
     <nav>
-        <h2>CV Navigation</h2>
+        <h2 class="cvn">CV Navigation</h2>
         <ul>
             <li>
                 <a href="#summary">Summary</a>
@@ -39,5 +41,87 @@
                 <a href="#languages">Languages</a></li>
             </ul>
     </nav>
+    <main>
+        <section class="mySummary">
+            <h2 id="summary">Summary</h2>
+        <p>I'm 25 years old and currently i work as a production documentation assistant. This is a cool job as i need to communicate a lot as well as to create new documentation. But to learn something new sounds much more interesting. I wouldn't describe myself as a very fast learner as i prefer to learn everything thoroughly.
+        </p>
+        </section>
+        <section class="mySkills">
+            <img class="iconSkills" src="https://png.pngtree.com/png-clipart/20230424/original/pngtree-key-skills-line-icon-png-image_9093626.png" alt="skills">
+            <h2 id="skills">Skills</h2>
+            <ul>
+                <li>Git</li>
+                <li>I hope to enrich this list soon</li>
+            </ul>
+        </section>
+        <section class="codeExample">
+            <h2 id="code">Code example</h2>
+        <pre>
+describe("Multiply", () => {
+    it("fixed tests", () => {
+        assert.strictEqual(multiply(1,1), 1);
+        assert.strictEqual(multiply(2,1), 2);
+        assert.strictEqual(multiply(2,2), 4);
+        assert.strictEqual(multiply(3,5), 15);   
+      });
+    });
+        </pre>
+        </section>
+        <section class="Education">
+            <img class="imgEducation" src="https://cdn-icons-png.flaticon.com/512/2790/2790260.png" alt="education">
+            <h2 id="education">Education</h2>
+        <ul class="line">
+            <li>Minsk State Lingustic Univesity
+                <ul>
+                    <li class="MSLU">Modern foreign languages (translation and interpretation)</li>
+                </ul>
+            </li>
+            <li>Eotvos Lorand University
+                <ul>
+                    <li class="ELU">Preparatory course in Hungarian</li>
+                </ul>
+            </li>
+        </ul>
+        </section>
+        <section class="myExperience">
+            <h2 id="experience">Experience</h2>
+        <ul>
+            <li>Production documentation assistant</li>
+            <li>Translator / assistant to the deputy head of production</li>
+            <li>Consecutive interpreter with the Hungarian language</li>
+        </ul>
+        </section>
+        <section class="myLanguages">
+            <img class="iconLanguages" src="https://icon-library.com/images/language-icon-png/language-icon-png-8.jpg" alt="lanaguages">
+            <h2 id="languages">Languages</h2>
+            <ul>
+                <li>
+                    <span class="text">Russian</span>
+                    <span class="percent">
+                        <div style="width: 100%;">
+                    </span>
+                </li>
+                <li>
+                    <span class="text">English</span>
+                    <span class="percent">
+                        <div style="width: 85%;"></div>
+                    </span>
+                </li>
+                <li>
+                    <span class="text">Hungarian</span>
+                    <span class="percent">
+                        <div style="width: 80%;"></div>
+                    </span>
+                </li>
+                <li>
+                    <span class="text">Chinese</span>
+                    <span class="percent">
+                        <div style="width: 10%;"></div>
+                    </span>
+                </li>
+            </ul>
+
+    </main>
 </body>
 </html>
