@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@100;300&display=swap');
 * {
-    margin: 60;
-    padding: 100;
     font-family: 'Poppins', sans-serif;
 }
 body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 60px;
     background: #e5f4ff;
     min-height: 100vh;
 }
@@ -99,11 +101,7 @@ body {
 #languages {
     color: rgb(6, 8, 123);
 }
-.iconLanguages {
-    float: right;
-    height: 17%;
-    width: 17%;
-}
+
 .myLanguages .percent {
 position: relative;
 width: 100%;
@@ -113,7 +111,7 @@ display: block;
 margin-top: 5px;
 width: 300px;
 }
-.myLanguages .percent div {
+.myLanguages .percent span {
     position: absolute;
     top: 0;
     left: 0;
