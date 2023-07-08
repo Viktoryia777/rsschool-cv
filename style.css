@@ -1,0 +1,137 @@
+rsschool-cv-html
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@100;300&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 60px;
+    background: #e5f4ff;
+    min-height: 100vh;
+}
+.header  {
+    text-align: center;
+    font-weight: bolder;
+}
+.ci {
+    color: rgb(6, 8, 123);
+    font-weight: bold;
+}
+.contacts {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+    background: #c9e9ff;
+}
+.img {
+    float: right;
+    height: 22%;
+    width: 22%;
+}
+.cvn {
+    color: rgb(6, 8, 123);
+}
+#summary {
+    color: rgb(6, 8, 123);
+}
+.mySummary {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+    background: #c9e9ff;
+}
+#skills {
+    color: rgb(6, 8, 123);
+}
+.iconSkills {
+    float: right;
+    height: 12%;
+    width: 12%;
+}
+.mySkills {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+}
+#code {
+    color: rgb(6, 8, 123);
+}
+.codeExample {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+    background: #c9e9ff;
+}
+#education {
+    color: rgb(6, 8, 123);
+}
+.Education {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+}
+.imgEducation {
+    float: right;
+    height: 17%;
+    width: 17%;
+}
+#experience  {
+    color: rgb(6, 8, 123);
+}
+.myExperience  {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+    background: #c9e9ff;
+}
+#languages {
+    color: rgb(6, 8, 123);
+}
+.myLanguages .percent {
+position: relative;
+width: 100%;
+height: 6px;
+background: red;
+display: block;
+margin-top: 5px;
+width: 300px;
+}
+.myLanguages .percent span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: rgb(0, 255, 17);
+}
+.logo {
+    height: 17%;
+    width: 17%;
+}
+.footer {
+    line-height: 5px;
+    display: inline-block;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100px;
+}
+.sticky {
+    position: sticky;
+    top: 100%;
+}
+.p {
+}
+gh-pages
