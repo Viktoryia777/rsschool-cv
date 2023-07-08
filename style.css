@@ -10,7 +10,6 @@ body {
     background: #e5f4ff;
     min-height: 100vh;
 }
-
 .header  {
     text-align: center;
     font-weight: bolder;
@@ -101,7 +100,6 @@ body {
 #languages {
     color: rgb(6, 8, 123);
 }
-
 .myLanguages .percent {
 position: relative;
 width: 100%;
@@ -132,6 +130,4 @@ width: 300px;
 .sticky {
     position: sticky;
     top: 100%;
-
 }
-
